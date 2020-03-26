@@ -10,6 +10,6 @@ To cite this work:
   year = {2019},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/beedrill/leader-selection-simulation}},
+  howpublished = {\url{https://github.com/beedrill/leaderSelectionAnalysis}},
 }
 ```
