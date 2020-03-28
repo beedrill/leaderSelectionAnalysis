@@ -10,7 +10,8 @@ to run four uniform scenario
 python3 four_uniform_csv.py
 ```
 
-those commands will create csv files, one-uniform.csv and four-uniform.csv respectively
+those commands will create csv files, one-uniform.csv and four-uniform.csv respectively.
+
 to plot the result of one uniform scenario, run 
 ```console
 python3 plot.py one-uniform.csv
