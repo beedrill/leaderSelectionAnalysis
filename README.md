@@ -1,11 +1,29 @@
 # Leader Selection Algorithm Theoretical Convergence Time Calculation
 
-To run, check the code of __k_uniform.py__.
+to run one uniform scenario
+```console
+python3 one_uniform_csv.py
+```
+
+to run four uniform scenario
+```console
+python3 four_uniform_csv.py
+```
+
+those commands will create csv files, one-uniform.csv and four-uniform.csv respectively
+to plot the result of one uniform scenario, run 
+```console
+python3 plot.py one-uniform.csv
+```
+to plot the result of four uniform scenario, run 
+```console
+python3 plot.py four-uniform.csv
+```
 
 To cite this work:
 ```
 @misc{leaderselectionanalysisrepo,
-  author = {Rusheng Zhang and Baptiste Jacquemot},
+  author = {Baptiste Jacquemot and Rusheng Zhang},
   title = {Leader Selection Analysis Repo},
   year = {2019},
   publisher = {GitHub},
